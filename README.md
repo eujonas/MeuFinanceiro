@@ -26,7 +26,7 @@
 
 Acesse a demo do site através deste link:
 
-* [Clique aqui](https://devfinances-ten.vercel.app/)
+* [Clique aqui](https://meufinanceiro-roan.vercel.app/)
 ## 💻 Projeto
 
 Facilitando a sua vida financeira 💰
