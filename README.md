@@ -6,7 +6,6 @@
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
   
 </p>
@@ -14,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Meu Financeiro$" src="./.github/preview.png" width="100%">
+  <img alt="Meu Financeiro$" src="./.github/meufinanceiro.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
