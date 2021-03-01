@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="dev.finances" title="Meu Financeiro$" src=".github/logo.svg" />
+    <img alt="Meu Financeiro$" title="Meu Financeiro$" src=".github/logo.svg" />
 </h1>
 
 <p align="center">
